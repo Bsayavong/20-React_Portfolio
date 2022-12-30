@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed&display=swap');
+
+section {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.me {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    transform: rotate(-10deg);
+}
+
+.card-header {
+    margin: 0px 0px 10px 0px;
+}
+
+.card-text {
+    background-color: #c5bfa68c;
+    margin-top: 10px;
+}
+
+.list {
+    list-style: none;
+}
+
+.resume {
+    color: #344017;
+}
