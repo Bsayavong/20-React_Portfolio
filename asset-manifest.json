@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/20-React_Portfolio/static/css/main.40d2bb1c.css",
+    "main.js": "/20-React_Portfolio/static/js/main.fee9f006.js",
+    "static/js/787.1ed0c42c.chunk.js": "/20-React_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.png": "/20-React_Portfolio/static/media/profile.3920d1dc7d836b7ed0f8.png",
+    "static/media/resume-2022.pdf": "/20-React_Portfolio/static/media/resume-2022.d560ae7abef3333a1a63.pdf",
+    "static/media/weather-dashboard.png": "/20-React_Portfolio/static/media/weather-dashboard.a5afc271ec3726109871.png",
+    "static/media/job-finder.png": "/20-React_Portfolio/static/media/job-finder.b395b7b8695f2c75f0e7.png",
+    "static/media/work-day-scheduler.png": "/20-React_Portfolio/static/media/work-day-scheduler.b83a65b81ba1d1557fcd.png",
+    "static/media/password-generator.png": "/20-React_Portfolio/static/media/password-generator.84060fa0d98915d32362.png",
+    "static/media/js-quiz.png": "/20-React_Portfolio/static/media/js-quiz.e440076b2e62c6f793e9.png",
+    "index.html": "/20-React_Portfolio/index.html",
+    "main.40d2bb1c.css.map": "/20-React_Portfolio/static/css/main.40d2bb1c.css.map",
+    "main.fee9f006.js.map": "/20-React_Portfolio/static/js/main.fee9f006.js.map",
+    "787.1ed0c42c.chunk.js.map": "/20-React_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d2bb1c.css",
+    "static/js/main.fee9f006.js"
+  ]
+}
