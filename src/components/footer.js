@@ -1,15 +1,28 @@
-import React from 'react';
-import '../styles/footer.css';
+import React from "react";
+import styles from "../styles/footer.module.css";
 
 export default function Footer() {
-    return (
-        <footer className='card text-center'>
-            <section>
-                <h4>Contact</h4>
-                <a href="mailto:bksayavong@gmail.com"> <i className="fa-regular fa-envelope fa-2x m-3 icon-color"></i></a>
-                <a href="https://github.com/Bsayavong" target="_blank" rel="noreferrer"> <i className="fa-brands fa-github fa-2x m-3 icon-color"></i></a>
-                <a href="https://www.linkedin.com/in/bryan-sayavong-8a652a196/" target="_blank" rel="noreferrer"> <i className="fa-brands fa-linkedin fa-2x m-3 icon-color"></i></a>
-            </section>
-        </footer>
-    );
+  return (
+    <footer className={`${styles.footer} bg-light`}>
+      <section className={`container ${styles.section}`}>
+        <div>
+          <p>Copyright © {new Date().getFullYear()} Bsayavong</p>
+        </div>
+        <ul className={`${styles.sociallinks}`}>
+          <li>
+            <a href="/">FACEBOOK</a>
+          </li>
+          <li>
+            <a href="/">TWITTER</a>
+          </li>
+          <li>
+            <a href="/">LINKEDIN</a>
+          </li>
+          <li>
+            <a href="/">EMAIL</a>
+          </li>
+        </ul>
+      </section>
+    </footer>
+  );
 }
