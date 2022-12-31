@@ -10,8 +10,8 @@ export default function Resume() {
           <h2>Resume</h2>
           <p>
             I'm a full-stack web developer with a background in customer service
-            and a passion for learning. I'm currently enrolled in the University
-            of Texas at Austin's Coding Bootcamp, and I'm looking for
+            and a passion for learning. I'm currently enrolled in the
+            University of Washington's Coding Bootcamp, and I am looking for
             opportunities to apply my skills and grow as a developer.
           </p>
 

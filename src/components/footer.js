@@ -6,12 +6,9 @@ export default function Footer() {
     <footer className={`${styles.footer} bg-light`}>
       <section className={`container ${styles.section}`}>
         <div>
-          <p>Copyright © {new Date().getFullYear()} Bsayavong</p>
+          <p>Copyright © {new Date().getFullYear()} B. Sayavong</p>
         </div>
         <ul className={`${styles.sociallinks}`}>
-          <li>
-            <a href="/">FACEBOOK</a>
-          </li>
           <li>
             <a href="/">TWITTER</a>
           </li>
