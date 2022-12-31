@@ -1,36 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
-
-nav {
-    background-color: #344017;
-    font-size: 20px;
+.header {
+    width: 100vw !important;
+    z-index: 9999;
+    position: fixed;
+    top: 0;
+    border-bottom: 1px solid #08bdba;
+  }
+  
+  .mainmenu{
+    margin-bottom: 0 !important;
+  }
+  
+  .mainmenu > li {
     display: flex;
-    justify-content: space-between;
-    padding: 5px 10px 0px 10px;
-}
-
-h3 {
-    color: #fbf5f7;
-}
-
-nav ul li a {
-    color: #fbf5f7;
-    text-decoration: none;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-nav ul li a:hover {
-    color: #eed97c;
-}
-
-nav ul li a:active {
-    color: #eed97c;
-}
-
-.navlinks {
-    list-style: none;
-}
-
-.navlinks li {
-    display: inline-block;
-    padding: 0px 10px;
-}
+    align-items: center;
+  }
+  .mainmenu > li > a {
+    color: #777777;
+  }
+  .logo {
+    color: #08bdba;
+  }
+  
+  .mainmenu > li > a:hover {
+    color: #08bdba;
+  }
+  
+  .mainmenu > li > a:hover {
+    color: #08bdba;
+  }

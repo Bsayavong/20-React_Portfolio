@@ -13,7 +13,7 @@ export default function About() {
             <div className=" d-flex-column justify-content-center align-items-center">
               <h2 className="fw-bold">About Me</h2>
               <div>
-                <h1>Brayn Sayavong</h1>
+                <h1>Bryan Sayavong</h1>
               </div>
               <p className="card-text mb-1">
                 During my career of 7+ years as a logistics specialist, I have
