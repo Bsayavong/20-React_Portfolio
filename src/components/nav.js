@@ -20,7 +20,7 @@ export default function Nav({ handlePageChange }) {
   return (
     <header className="p-4 bg-light position-fixed z-3 header">
       <nav className="container-sm d-flex justify-content-between">
-        <h3 className="fw-bold logo">Bsayavong</h3>
+        <h3 className="fw-bold logo">Hi, I am Bryan Sayavong</h3>
         <ul className="d-flex gap-3 fw-bold list-unstyled mainmenu">
           <li>
             <a

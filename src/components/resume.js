@@ -51,7 +51,7 @@ export default function Resume() {
                 aria-valuemin="0"
                 aria-valuemax="100"
               >
-                85%
+                90%
               </div>
             </div>
           </div>

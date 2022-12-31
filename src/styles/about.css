@@ -1,49 +1,49 @@
 .section {
-    height: calc(100vh - 6rem);
-    margin-top: 4rem;
-  }
-  
-  .about-img {
-    width: 350px;
-    height: 350px;
-    object-fit: cover;
-    border-radius: 100%;
-    overflow: hidden;
-    z-index: 99;
-  }
-  
-  .about-content {
-    height: 100%;
-  }
-  
-  .workbtn {
-    background-color: #393939;
-    color: #fff;
-    border: 1px solid #000;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
-    text-transform: uppercase;
-    font-size: 0.8rem;
-    font-weight: bold;
-    letter-spacing: 2px;
-    transition: all 0.3s ease-in-out;
-  }
-  
-  .workbtn:hover {
-    background-color: #fff;
-    color: #000;
-  }
-  
-  .blob{
-      width: 500px;
-      height: 500px;
-      top: -0px;
-      left: 120px;
-  }
-  
-  .blob1{
-      z-index: 999;
-      bottom: 30px;
-      right: -80px;
-      width: 50%;
-  }
+  height: calc(100vh - 6rem);
+  margin-top: 4rem;
+}
+
+.about-img {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 100%;
+  overflow: hidden;
+  z-index: 99;
+}
+
+.about-content {
+  height: 100%;
+}
+
+.workbtn {
+  background-color: #393939;
+  color: #fff;
+  border: 1px solid #000;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  transition: all 0.3s ease-in-out;
+}
+
+.workbtn:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.blob{
+    width: 500px;
+    height: 500px;
+    top: -0px;
+    left: 120px;
+}
+
+.blob1{
+    z-index: 999;
+    bottom: 30px;
+    right: -80px;
+    width: 50%;
+}

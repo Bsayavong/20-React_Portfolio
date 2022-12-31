@@ -1,30 +1,30 @@
 .header {
-    width: 100vw !important;
-    z-index: 9999;
-    position: fixed;
-    top: 0;
-    border-bottom: 1px solid #08bdba;
-  }
-  
-  .mainmenu{
-    margin-bottom: 0 !important;
-  }
-  
-  .mainmenu > li {
-    display: flex;
-    align-items: center;
-  }
-  .mainmenu > li > a {
-    color: #777777;
-  }
-  .logo {
-    color: #08bdba;
-  }
-  
-  .mainmenu > li > a:hover {
-    color: #08bdba;
-  }
-  
-  .mainmenu > li > a:hover {
-    color: #08bdba;
-  }
+  width: 100vw !important;
+  z-index: 9999;
+  position: fixed;
+  top: 0;
+  border-bottom: 1px solid #08bdba;
+}
+
+.mainmenu{
+  margin-bottom: 0 !important;
+}
+
+.mainmenu > li {
+  display: flex;
+  align-items: center;
+}
+.mainmenu > li > a {
+  color: #777777;
+}
+.logo {
+  color: #08bdba;
+}
+
+.mainmenu > li > a:hover {
+  color: #08bdba;
+}
+
+.mainmenu > li > a:hover {
+  color: #08bdba;
+}

@@ -1,0 +1,36 @@
+.footer {
+  padding-inline: 20px;
+}
+
+.section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section > div > p {
+  font-size: 15px;
+  font-weight: 500;
+  color: #919191;
+
+}
+
+.sociallinks {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  list-style: none;
+}
+
+.sociallinks a {
+  color: #919191;
+  display: block;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.sociallinks a:hover {
+  color: #08BDBA;
+}
