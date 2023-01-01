@@ -10,13 +10,13 @@ export default function Footer() {
         </div>
         <ul className={`${styles.sociallinks}`}>
           <li>
-            <a href="https://github.com/Bsayavong?tab=repositories">GITHUB</a>
+            <a href="/">GITHUB</a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/bryan-sayavong-8a652a196/">LINKEDIN</a>
+            <a href="/">LINKEDIN</a>
           </li>
           <li>
-            <a href="mailto:bksayavong@gmail.com">EMAIL</a>
+            <a href="/">EMAIL</a>
           </li>
         </ul>
       </section>
