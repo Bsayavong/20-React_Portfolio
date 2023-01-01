@@ -31,8 +31,8 @@ export default function Resume() {
               <div
                 className="progress-bar"
                 role="progressbar"
-                style={{ width: "95%", backgroundColor: "#000" }}
-                aria-valuenow="95"
+                style={{ width: "92%", backgroundColor: "#000" }}
+                aria-valuenow="92"
                 aria-valuemin="0"
                 aria-valuemax="100"
               >
@@ -46,8 +46,8 @@ export default function Resume() {
               <div
                 className="progress-bar"
                 role="progressbar"
-                style={{ width: "90%", backgroundColor: "#000" }}
-                aria-valuenow="89"
+                style={{ width: "85%", backgroundColor: "#000" }}
+                aria-valuenow="85"
                 aria-valuemin="0"
                 aria-valuemax="100"
               >
@@ -63,7 +63,7 @@ export default function Resume() {
                 className="progress-bar"
                 role="progressbar"
                 style={{ width: "88%", backgroundColor: "#000" }}
-                aria-valuenow="85"
+                aria-valuenow="88"
                 aria-valuemin="0"
                 aria-valuemax="100"
               >
@@ -78,8 +78,8 @@ export default function Resume() {
               <div
                 className="progress-bar"
                 role="progressbar"
-                style={{ width: "92%", backgroundColor: "#000" }}
-                aria-valuenow="85"
+                style={{ width: "82%", backgroundColor: "#000" }}
+                aria-valuenow="82"
                 aria-valuemin="0"
                 aria-valuemax="100"
               >
