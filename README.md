@@ -21,7 +21,7 @@ Recently I've taken the interest in learning a new language. After deciding whic
 
 ---
 
-![Portfolio Preview](./src/assets\images\portfolio.png)
+![Portfolio Preview](./src/assets/images/portfolio.png)
 
 ## Technology
 
