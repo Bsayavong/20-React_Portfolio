@@ -54,10 +54,7 @@ export default function Contact() {
         <div className={styles.contactinfo}>
           <h2>Contact Me</h2>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut vel
-            ducimus pariatur fugiat quas. Consequuntur commodi at, deleniti
-            libero natus fugit itaque exercitationem dignissimos possimus!
-            Debitis minus itaque harum autem.
+            You can contact me for any requests, inquries or anything relative to myself using this contact form.
           </p>
         </div>
         <div className={styles.formcon}>
@@ -111,7 +108,7 @@ export default function Contact() {
             )}
             <p>
               At this time this contact form is still under development. You may
-              reach me with the links below.
+              reach me with the links located on my footer below.
             </p>
           </form>
         </div>

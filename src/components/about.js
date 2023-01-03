@@ -26,7 +26,6 @@ export default function About() {
                 development.
               </p>
 
-              <button className="workbtn">MY WORK</button>
             </div>
           </div>
 

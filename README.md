@@ -12,7 +12,6 @@ Recently I've taken the interest in learning a new language. After deciding whic
 
 ---
 - [Preview](#preview)
-- [Technology](#technology)
 - [Portfolio](#portfolio)
 - [Authors](#authors)
 
@@ -22,18 +21,6 @@ Recently I've taken the interest in learning a new language. After deciding whic
 ---
 
 ![Portfolio Preview](./src/assets/images/portfolio.png)
-
-## Technology
-
----
-
-Technology used to build the application:
-
-    - Javascript
-    - Node.js
-    - Tailwind CSS
-    - React 
-    - Bootstrap
 
 ## Portfolio
 
